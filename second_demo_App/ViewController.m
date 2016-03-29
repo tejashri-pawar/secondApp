@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"ebf jhwb");
+    NSLog(@"ebf jhwb");
+
     // Do any additional setup after loading the view, typically from a nib.
 }
 
